@@ -1,5 +1,5 @@
 {
-  "name": "tiny-invariant",
+  "name": "@minswap/tiny-invariant",
   "version": "1.2.0",
   "description": "A tiny invariant function",
   "author": "Alex Reardon <alexreardon@gmail.com>",
